@@ -126,7 +126,7 @@ A IA agora analisa e limpa o nome do autor para a sugestão de título, removend
 
 ### 6. Limite de Caracteres Reduzido
 
-O limite máximo para nomes de **subpastas e arquivos** foi reduzido de 66 para **57 caracteres**.
+O limite máximo para nomes de **subpastas e arquivos** foi reduzido de 66 para **60 caracteres**.
 
 **Por que:** Maior compatibilidade com diferentes sistemas de arquivo e caminhos longos no Windows.
 
