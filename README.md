@@ -210,7 +210,7 @@ Todas as configurações ficam centralizadas no arquivo `config.json`:
 | Chave | Obrigatória | Descrição |
 |-------|-------------|-----------|
 | `imgbb_api_key` | Sim | Upload de thumbnails no relatório |
-| `google_gemini_api_key` | Recomendado | IA principal (palavras-chave e tipos) |
+| `google_gemini_api_key` | Sim | IA principal (palavras-chave e tipos) |
 | `openrouter_api_key` | Opcional | Fallback quando Gemini excede limite |
 | `telegram_bot_token` | Opcional | Token do bot (deixe vazio para usar o padrão) |
 | `telegram_chat_id` | Opcional | Seu Chat ID (deixe vazio para desativar notificações) |
